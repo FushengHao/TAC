@@ -1,4 +1,4 @@
-# [CVPR25] Task-Aware Clustering for Prompting Vision-Language Models
+## [CVPR25] Task-Aware Clustering for Prompting Vision-Language Models
 
 ## Installation
 Please refer to the instructions detailed in [INSTALL.md](docs/INSTALL.md).
